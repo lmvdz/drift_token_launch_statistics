@@ -13,8 +13,12 @@ set `RPC_URL` in `.env`
 example output:
 
 ```txt
-Forgone DRIFT 5,595,212.00  
-% Forgone 4.66%  
-Claimed DRIFT 100,163,325.00  
-% Claimed 83.47%
+Forgone DRIFT 5,595,212.00
+% Forgone 4.66%
+
+Claimed DRIFT 100,485,764.00
+% Claimed 83.74%
+
+Unclaimed DRIFT 13,919,024.00
+% Unclaimed 11.60%
 ```
